@@ -7,3 +7,6 @@ Bài thực hành môn Deep Learning:
 
 📁 Bài tâp tuần Regression:
 ~~file docs
+
+📁 BT02_ComputationGraph_Dang_Thanh_Phuong-3123580036
+~~file docs
