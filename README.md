@@ -10,3 +10,6 @@ Bài thực hành môn Deep Learning:
 
 📁 BT02_ComputationGraph_Dang_Thanh_Phuong-3123580036
 ~~file docs
+
+📁 BT03_PerceptronDL-Dang_Thanh_Phuong-3123580036
+~~file docs
