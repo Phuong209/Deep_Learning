@@ -19,3 +19,6 @@ Bài thực hành môn Deep Learning:
 
 📁 Giữa kỳ: M01 - BatchGD_Regression-Dang_Thanh_Phuong-3123580036
 ~~file pdf
+
+📁 BT05_CNN_Dang-Thanh-Phuong_3123580036
+~~file docs
